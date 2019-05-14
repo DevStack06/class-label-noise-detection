@@ -35,4 +35,6 @@ Note - 1)For the detail commenting prefer mis10 ipynb file
 
 2)cluster based boosting code is incomplete right now 
 
+3)The code is avialble for only DATASET A 
+
 
